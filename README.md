@@ -9,9 +9,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/JZ3fQRS.jpg" alt="FIFA 2019 Banner" width="700">
-</p>
 
 ## 📊 Project Overview
 
@@ -188,10 +185,6 @@ for i, v in enumerate(top_players['Overall']):
 plt.show()
 ```
 
-<div align="center">
-  <p><i>Example visualization output</i></p>
-  <img src="https://i.imgur.com/JQpgqrs.png" alt="Example Visualization" width="600">
-</div>
 
 ## 📝 Analysis Workflow
 
@@ -249,11 +242,6 @@ Contributions to this project are welcome! To contribute:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📞 Contact
-
-For questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
 
 <div align="center">
   <p><b>🎮 FIFA 2019 Players Performance Analysis</b></p>
